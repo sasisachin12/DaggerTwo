@@ -1,7 +1,8 @@
-package aaa.app.matrimony.daggertwo.Modules
+package aaa.app.dagger.daggertwo.Modules
 
-import aaa.app.matrimony.daggertwo.accessories.MemoryCard
-import aaa.app.matrimony.daggertwo.accessories.MoviesAndSongs
+
+import aaa.app.dagger.daggertwo.accessories.MemoryCard
+import aaa.app.dagger.daggertwo.accessories.MoviesAndSongs
 import dagger.Module
 import dagger.Provides
 import javax.inject.Singleton

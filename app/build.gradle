@@ -9,7 +9,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion "29.0.2"
     defaultConfig {
-        applicationId "aaa.app.matrimony.daggertwo"
+        applicationId "aaa.app.dagger.daggertwo"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 1

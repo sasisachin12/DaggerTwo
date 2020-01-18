@@ -1,9 +1,10 @@
-package aaa.app.matrimony.daggertwo
+package aaa.app.dagger.daggertwo
 
-import aaa.app.matrimony.daggertwo.accessories.Battery
-import aaa.app.matrimony.daggertwo.accessories.MemoryCard
-import aaa.app.matrimony.daggertwo.accessories.Mobile
-import aaa.app.matrimony.daggertwo.compontents.DaggerAppCompontent
+
+import aaa.app.dagger.daggertwo.accessories.Battery
+import aaa.app.dagger.daggertwo.accessories.MemoryCard
+import aaa.app.dagger.daggertwo.accessories.Mobile
+import aaa.app.dagger.daggertwo.compontents.DaggerAppCompontent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem

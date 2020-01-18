@@ -1,4 +1,4 @@
-package aaa.app.matrimony.daggertwo.accessories
+package aaa.app.dagger.daggertwo.accessories
 
 import android.util.Log
 import javax.inject.Inject
